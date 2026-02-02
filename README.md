@@ -37,15 +37,15 @@ TexTra is an application that  translates and reads aloud text on Windows.
 
 TexTra Screen Reader.msiを<br>
 本画面の「Releases」からダウンロードして実行してください。<br>
-https://github.com/NICT-Dev/TexTra-Screen-Reader/releases
+https://github.com/NICT-Dev/TexTra-Screen-Reader/releases<br>
 
 インストールが完了後、<br>
 Windowsのメニューとデスクトップに<br>
 アプリのアイコンが追加されます。<br>
 
 Please download "TexTra Screen Reader.msi"<br>
-from "Releases" section of this repository and run it.
-https://github.com/NICT-Dev/TexTra-Screen-Reader/releases
+from "Releases" section of this repository and run it.<br>
+https://github.com/NICT-Dev/TexTra-Screen-Reader/releases<br>
 
 After the installation is complete,<br>
 the application icon will be added to the Windows Start menu and to the desktop.<br>
