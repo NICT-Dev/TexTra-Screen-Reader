@@ -30,3 +30,26 @@ TexTra is an application that  translates and reads aloud text on Windows.
 
 \* If special fonts are used, text recognition may fail.<br>
 \* The OCR and text-to-speech functions use Windows APIs.<br>
+
+------
+
+## インストール Install
+
+TexTra Screen Reader.msiを本画面からダウンロードして実行してください。<br>
+
+インストールが完了後、<br>
+Windowsのメニューとデスクトップに<br>
+アプリのアイコンが追加されます。<br>
+
+Please download the "TexTra Screen Reader.msi" from this page and run it.<br>
+
+After the installation is complete,<br>
+the application icon will be added to the Windows Start menu and to the desktop.<br>
+
+------
+
+## 実行環境 System Requirements
+
+64ビット版 Windows 10 または Windows 11<br>
+
+Windows 10 (64‑bit) or Windows 11 (64‑bit)<br>
