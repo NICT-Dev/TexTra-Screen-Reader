@@ -3,7 +3,8 @@
 **TexTra Screen Reader**は <br>
 Windows上のテキストを翻訳、読み上げを行うアプリケーションです。<br>
 
-TexTra is an application that  translates and reads aloud text on Windows.
+**TexTra Screen Reader** is an application <br>
+that  translates and reads aloud text on Windows.
 
 ---
 
