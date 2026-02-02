@@ -9,22 +9,22 @@ that  translates and reads aloud text on Windows.
 ---
 
 **X(Twitter)** <br>
-![](help/ja/images/image005.png)<br> 
+![](docs/ja/images/image005.png)<br> 
 
 ---
 
 **PDF** <br>
-![](help/ja/images/image007.png)<br> 
+![](docs/ja/images/image007.png)<br> 
 
 ---
 
 **エラーメッセージ** Error message<br>
-![](help/ja/images/image009.png)<br>
+![](docs/ja/images/image009.png)<br>
 
 ---
 
 **ゲーム** Game<br>
-![](help/ja/images/image011.png)<br>
+![](docs/ja/images/image011.png)<br>
 
 ※  特殊なフォントを使用している場合、文字の読み取りが失敗する場合があります。<br>
 ※ OCR、読上げ機能はWindowsのAPIを利用しています。<br>
@@ -44,12 +44,21 @@ https://github.com/NICT-Dev/TexTra-Screen-Reader/releases<br>
 Windowsのメニューとデスクトップに<br>
 アプリのアイコンが追加されます。<br>
 
+ヘルプ<br>
+https://nict-dev.github.io/TexTra-Screen-Reader/ja/メイン.html
+
+................................................................................................................................................................................................................................................
+
 Please download "TexTra Screen Reader.msi"<br>
 from "Releases" section of this repository and run it.<br>
 https://github.com/NICT-Dev/TexTra-Screen-Reader/releases<br>
 
 After the installation is complete,<br>
 the application icon will be added to the Windows Start menu and to the desktop.<br>
+
+Help<br>https://nict-dev.github.io/TexTra-Screen-Reader/en/メイン.html
+
+
 
 ------
 
@@ -58,3 +67,5 @@ the application icon will be added to the Windows Start menu and to the desktop.
 64ビット版 Windows 10 または Windows 11<br>
 
 Windows 10 (64‑bit) or Windows 11 (64‑bit)<br>
+
+<br><br><br><br><br><br><br><br>
