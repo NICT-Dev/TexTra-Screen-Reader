@@ -88,4 +88,9 @@ https://twitter.com/minhonMT
 
 Windows 10 (64‑bit) or Windows 11 (64‑bit)<br>
 
+------
+みんなの自動翻訳 - TexTra Screen Reader (古い内容が含まれています。)<br>
+Min'na no Jido Hon'yaku - TexTra Screen Reader (The information on the linked page is outdated.)<br>
+https://mt-auto-minhon-mlt.ucri.jgn-x.jp/content/tool/textrascreenreader/<br>
+
 <br><br><br><br><br><br><br><br>
